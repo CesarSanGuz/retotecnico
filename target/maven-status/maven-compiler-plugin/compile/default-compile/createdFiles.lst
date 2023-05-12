@@ -1,0 +1,14 @@
+com\ibk\retotecnico\connector\model\Info.class
+com\ibk\retotecnico\domains\exchangerate\domain\service\ExchageRateService.class
+com\ibk\retotecnico\connector\service\serviceImpl\ApiExchangeRateServiceImpl.class
+com\ibk\retotecnico\application\exchangerate\dto\ExchangeRequest.class
+com\ibk\retotecnico\connector\model\ExchangeRate.class
+com\ibk\retotecnico\connector\service\serviceImpl\ApiExchangeRateServiceImpl$1.class
+com\ibk\retotecnico\domains\exchangerate\domain\dto\ExchangeRateDto$ExchangeRateDtoBuilder.class
+com\ibk\retotecnico\RetoApplication.class
+com\ibk\retotecnico\domains\exchangerate\domain\dto\ExchangeRateDto.class
+com\ibk\retotecnico\connector\config\ExchangeRateConfig.class
+com\ibk\retotecnico\connector\service\ApiExchangeRateService.class
+com\ibk\retotecnico\connector\model\Query.class
+com\ibk\retotecnico\application\exchangerate\rest\ExchangeRateController.class
+com\ibk\retotecnico\domains\exchangerate\infrastructure\service\ExchangeRateServiceImpl.class

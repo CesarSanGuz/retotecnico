@@ -1,0 +1,9 @@
+server:
+  servlet:
+   context-path: /retotecnico
+api:
+  exchangerate:
+    uri: https://api.apilayer.com
+    apikey: UQNjTSnnlA50x15KkWz4oiYiqfLnnlM6
+    connectimeout: 15000
+    requestimeout: 15000
